@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hey there 👋
 
-<!--
-**AkshatJawne/AkshatJawne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Akshat, a Computer Engineering student at the University of Waterloo, currently working at Ford as a Systems Software Developer. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+### Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ins>Languages</ins>: JavaScript, TypeScript, C++, Python, Go, Java, SQL, HTML, CSS <be>  
+<ins>Tools and Frameworks</ins>: React.js, Next.js, Node.js, Express.js, jQuery, Django, MongoDB, Mongoose, Tailwind CSS, Jenkins, MySQL, PostgreSQL, Linux, Bash, Git, Github, Bitbucket, Jira, Postman, Jest
+
+### Get in Touch
+
+<ins>LinkedIn</ins>: https://www.linkedin.com/in/akshatjawne/ <be>  
+<ins>Email</ins>: ajawne@uwaterloo.ca <be>  
+<ins>Portfolio</ins>: https://www.akshatjawne.tech/
+
+Feel free to explore my repositories and don't hesitate to reach out!
