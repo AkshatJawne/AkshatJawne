@@ -5,7 +5,7 @@ I'm Akshat, a Computer Engineering student at the University of Waterloo, curren
 ### Technologies
 
 <ins>Languages</ins>: JavaScript, TypeScript, C++, Python, Go, Java, SQL, HTML, CSS <be>  
-<ins>Tools and Frameworks</ins>: React.js, Next.js, Node.js, Express.js, jQuery, Django, MongoDB, Mongoose, Tailwind CSS, Jenkins, MySQL, PostgreSQL, Linux, Bash, Git, Github, Bitbucket, Jira, Postman, Jest
+<ins>Tools and Frameworks</ins>: React.js, Vue.js, Next.js, Node.js, Express.js, jQuery, Django, MongoDB, Mongoose, Tailwind CSS, Jenkins, MySQL, PostgreSQL, Linux, Bash, Git, Github, Bitbucket, Jira, Postman, Jest
 
 ### Get in Touch
 
