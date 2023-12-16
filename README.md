@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Akshat, a Computer Engineering student at the University of Waterloo, currently working at Ford as a Systems Software Developer. Welcome to my GitHub profile!
+I'm Akshat, a Computer Engineering student at the University of Waterloo, having most recently worked at Ford as a Systems Software Developer. Welcome to my GitHub profile!
 
 ### Technologies
 
