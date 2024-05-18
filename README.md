@@ -1,11 +1,11 @@
 ## Hey there 👋
 
-I'm Akshat, a Computer Engineering student at the University of Waterloo, having most recently worked at Ford as a Systems Software Developer. Welcome to my GitHub profile!
+I'm Akshat, a Computer Engineering student at the University of Waterloo. Welcome to my GitHub profile!
 
 ### Technologies
 
 <ins>Languages</ins>: JavaScript, TypeScript, C++, Python, Go, Java, SQL, HTML, CSS <be>  
-<ins>Tools and Frameworks</ins>: React.js, Vue.js, Next.js, Node.js, Express.js, jQuery, Django, MongoDB, Mongoose, Tailwind CSS, Jenkins, MySQL, PostgreSQL, Linux, Bash, Git, Github, Bitbucket, Jira, Postman, Jest
+<ins>Tools and Frameworks</ins>: React.js, Vue.js, Next.js, Node.js, Express.js, jQuery, Django, MongoDB, Tailwind CSS, Jenkins, MySQL, PostgreSQL, Linux, Bash, Git, Github, Bitbucket, Jira, Postman, Jest
 
 ### Get in Touch
 
